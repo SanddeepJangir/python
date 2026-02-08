@@ -1,0 +1,11 @@
+class Solution:
+    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        curr = head  # create a pointer
+
+        while curr and curr.next: # here use of current node and next node
+            if curr.val == curr.next.val: # compare to current node and next node of value
+                curr.next = curr.next.next
+            else:
+                curr = curr.next
+
+        return head # we return the original node

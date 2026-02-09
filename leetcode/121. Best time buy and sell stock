@@ -1,0 +1,7 @@
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        mx, mi = 0, inf
+        for v in prices:
+            mx = max(mx,v-mi)
+            mi = min(mi,v)
+        return mx  

@@ -1,0 +1,11 @@
+,student_id,student_name,course,course_duration,total_fees
+0,1,ram,python developer,6 month,40000
+1,2,shyam,java developer,10 month,60000
+2,3,rishi,mern stack developer,8 month,50000
+3,4,vikas,data engineer,9 month,55000
+4,5,abhishek,data analyst,7 month,45000
+5,6,sandeep,data science,11 month,65000
+6,7,kushagra,data science,11 month,65000
+7,8,mehul,data engineer,7 month,45000
+8,9,deepak,mern stack developer,8 month,50000
+9,10,govind,java developer,10 month,60000

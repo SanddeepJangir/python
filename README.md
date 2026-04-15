@@ -60,8 +60,3 @@ Build strong Python fundamentals
 Prepare for Data Analyst / Data Scientist roles
 Practice coding for interviews
 Maintain structured learning
-📈 Future Improvements
-Add more real-world datasets
-Include end-to-end ML projects
-Add visualization (Matplotlib, Seaborn)
-Add SQL + Python integration
